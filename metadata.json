@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Kredit",
+  "description": "Kalkulator cicilan kredit barang real-time dengan DP minimal 20%, F-Factor, dan biaya admin otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

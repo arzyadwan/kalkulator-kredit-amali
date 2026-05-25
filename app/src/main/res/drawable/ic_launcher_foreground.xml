@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer shield / frame representing security and finance -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M54,22 L32,32 L32,56 C32,71.2 41.2,85.2 54,90 C66.8,85.2 76,71.2 76,56 L76,32 L54,22 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26.5 L36,34.7 L36,56 C36,68.8 43.7,80.5 54,84.5 C64.3,80.5 72,68.8 72,56 L72,34.7 L54,26.5 Z" />
+    <!-- Percent symbol inside, or credit/growth arrow -->
+    <path
+        android:fillColor="#006A6A"
+        android:pathData="M44,48 a 4,4 0 1,1 0.001,-0.001 Z M64,62 a 4,4 0 1,1 0.001,-0.001 Z M65,44 L43,66 L46,69 L68,47 L68,54 L72,54 L72,40 L58,40 L58,44 Z" />
+</vector>
